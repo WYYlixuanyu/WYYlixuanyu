@@ -1,4 +1,4 @@
-    Welcome to my hithub 
+    Welcome to my github 
 <!--       cjpsgo        -->
 - 👋 Hi, I’m @WYYlixuanyu
 - 👀 I’m interested in c,c++,java and front end;
